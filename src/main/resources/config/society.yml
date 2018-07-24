@@ -1,0 +1,11 @@
+society:
+  partyName: partyName
+  persons:
+    -
+      name: test1
+      age: 19
+      sex: male
+    -
+      name: test2
+      age: 21
+      sex: female
